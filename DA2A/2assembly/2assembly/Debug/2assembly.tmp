@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>Y:\CPE301\DA2A\2assembly\2assembly\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>Y:\CPE301\DA2A\2assembly\2assembly\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>Y:\CPE301\DA2A\2assembly\2assembly\Debug\2assembly.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>2assembly.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>2assembly.map</FILE>
+  <FILE>2assembly.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <AGAIN><FILE>Y:\CPE301\DA2A\2assembly\2assembly\main.asm</FILE><LINE>15</LINE></AGAIN>
+  <OVER><FILE>Y:\CPE301\DA2A\2assembly\2assembly\main.asm</FILE><LINE>20</LINE></OVER>
+  <delay><FILE>Y:\CPE301\DA2A\2assembly\2assembly\main.asm</FILE><LINE>27</LINE></delay>
+  <body><FILE>Y:\CPE301\DA2A\2assembly\2assembly\main.asm</FILE><LINE>34</LINE></body>
+ </LABELS>
+</ASSEMBLER_INFO>
